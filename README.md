@@ -9,3 +9,7 @@ GitLab | 有 | 是 | 否 | 否 | https://gitlab.com
 码云 | 有 | 是 | 否 | 是 | https://gitee.com
 腾讯云开发者平台 | 有 | 是 | 否 | 是 | https://dev.tencent.com
 GitShell | 有 | 是 | 否 | 否 | https://gitshell.com
+
+---
+
+Licensed under the [Apache License, Version 2.0](LICENSE)
