@@ -6,6 +6,7 @@ GitHub | 无 | 是 | 否 | 否 | https://github.com
 Bitbucket | 有 | 是 | 是 | 否 | https://bitbucket.org
 SourceForge | 无 | 是 | 是 | 是 | https://sourceforge.net
 GitLab | 有 | 是 | 否 | 否 | https://gitlab.com
+Azure DevOps | 否 | 是 | 否 | 否 | https://azure.microsoft.com/services/devops/
 码云 | 有 | 是 | 否 | 是 | https://gitee.com
 腾讯云开发者平台 | 有 | 是 | 否 | 是 | https://dev.tencent.com
 GitShell | 有 | 是 | 否 | 否 | https://gitshell.com
